@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 #The following code is based on the code written by reachsumit on github. The URL for the page is https://gist.github.com/reachsumit/583c76ffd740e1a952d65da3c676931f. This is the file to decode the enhanced LSB message in from enhanced.py and the modifications to the code is to decode the message based on the enhancement..
+#There are still issues with this code. Does not properly decode the enhanced version of encoding a message
 
 import sys
 import wave as wav
